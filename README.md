@@ -1,7 +1,26 @@
 # 🎸 Live Scheduler
 
 軽音サークルのライブ運営を支援する、数理最適化による日割り自動生成Webアプリです。
+## Webアプリ（公開デモ）
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://live-scheduler-6zmfqdnsgrseyzexsnvw3c.streamlit.app/)
+
+**[Live Schedulerを使ってみる](https://live-scheduler-6zmfqdnsgrseyzexsnvw3c.streamlit.app/)**
+
+アプリ内で架空のサンプルExcelをダウンロードできるため、データを持っていない方でも日割り生成を体験できます。
+
+### デモの操作方法
+
+1. Webアプリを開く
+2. サンプルExcelをダウンロードする
+3. ダウンロードしたExcelをアップロードする
+4. 出演可能条件を確認する
+5. 「日割りを自動生成する」を押す
+6. 生成結果・グラフ・検証結果を確認する
+
+※ 初回アクセス時や長期間利用されていない場合は、アプリの起動に時間がかかることがあります。
+
+---
 ## 開発背景
 多数のバンドの出演可能日・演奏時間・学年構成を考慮する日割り作業の負担を減らすために開発しました。
 
